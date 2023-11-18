@@ -30,3 +30,8 @@ venv/
 venv3/
 .venv/
 .pytest_cache
+bundle.js
+*node_modules*
+*/var/*
+*/node_modules/*
+node_modules/
