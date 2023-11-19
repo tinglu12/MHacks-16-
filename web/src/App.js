@@ -1,10 +1,12 @@
 import './App.css';
+import Defaultpage from "./default"
+
+import { useState } from 'react';
+
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <Defaultpage/>
   );
 }
 
